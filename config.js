@@ -1,5 +1,5 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// Heyyy BAE YK I LOVE YOU SO PRESS THIS LINK FOR ME ❤️
 // ============================================
 
 const CONFIG = {
